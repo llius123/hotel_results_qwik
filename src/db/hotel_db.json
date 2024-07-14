@@ -1,0 +1,68 @@
+[
+  {
+      "id": 1,
+      "name": "Sun and Sea Hotel",
+      "address": "123 Sun Street, Playa Blanca, Spain",
+      "price": 120
+  },
+  {
+      "id": 2,
+      "name": "Moonlight Resort",
+      "address": "456 Moon Avenue, Cala Luna, Italy",
+      "price": 150
+  },
+  {
+      "id": 3,
+      "name": "Ocean Breeze Inn",
+      "address": "789 Ocean Drive, Malibu, USA",
+      "price": 200
+  },
+  {
+      "id": 4,
+      "name": "Mountain View Lodge",
+      "address": "321 Peak Road, Aspen, USA",
+      "price": 180
+  },
+  {
+      "id": 5,
+      "name": "Forest Retreat",
+      "address": "654 Pine Street, Black Forest, Germany",
+      "price": 140
+  },
+  {
+      "id": 6,
+      "name": "City Lights Hotel",
+      "address": "987 Downtown Blvd, New York, USA",
+      "price": 220
+  },
+  {
+      "id": 7,
+      "name": "Desert Oasis",
+      "address": "111 Sand Dune Rd, Sahara, Morocco",
+      "price": 160
+  },
+  {
+      "id": 8,
+      "name": "Lakeside Cabin",
+      "address": "222 Lakeview Dr, Ontario, Canada",
+      "price": 130
+  },
+  {
+      "id": 9,
+      "name": "Riverside Hotel",
+      "address": "333 River Rd, Kyoto, Japan",
+      "price": 190
+  },
+  {
+      "id": 10,
+      "name": "Tropical Paradise",
+      "address": "444 Palm Lane, Bali, Indonesia",
+      "price": 210
+  },
+  {
+      "id": 11,
+      "name": "Canyon Cliff Hotel",
+      "address": "555 Rock Street, Grand Canyon, USA",
+      "price": 170
+  }
+]

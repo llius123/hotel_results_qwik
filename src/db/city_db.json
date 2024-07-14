@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Paris",
+    "identifier": 1
+  },
+  {
+    "id": 2,
+    "name": "London",
+    "identifier": 2
+  },
+  {
+    "id": 3,
+    "name": "Berlin",
+    "identifier": 3
+  },
+  {
+    "id": 4,
+    "name": "Madrid",
+    "identifier": 4
+  },
+  {
+    "id": 5,
+    "name": "Rome",
+    "identifier": 5
+  },
+  {
+    "id": 6,
+    "name": "Vienna",
+    "identifier": 6
+  },
+  {
+    "id": 7,
+    "name": "Amsterdam",
+    "identifier": 7
+  },
+  {
+    "id": 8,
+    "name": "Prague",
+    "identifier": 8
+  },
+  {
+    "id": 9,
+    "name": "Budapest",
+    "identifier": 9
+  },
+  {
+    "id": 10,
+    "name": "Dublin",
+    "identifier": 10
+  },
+  {
+    "id": 11,
+    "name": "Copenhagen",
+    "identifier": 11
+  },
+  {
+    "id": 12,
+    "name": "Stockholm",
+    "identifier": 12
+  },
+  {
+    "id": 13,
+    "name": "Lisbon",
+    "identifier": 13
+  },
+  {
+    "id": 14,
+    "name": "Brussels",
+    "identifier": 14
+  },
+  {
+    "id": 15,
+    "name": "Helsinki",
+    "identifier": 15
+  },
+  {
+    "id": 16,
+    "name": "Warsaw",
+    "identifier": 16
+  },
+  {
+    "id": 17,
+    "name": "Athens",
+    "identifier": 17
+  },
+  {
+    "id": 18,
+    "name": "Oslo",
+    "identifier": 18
+  },
+  {
+    "id": 19,
+    "name": "Zurich",
+    "identifier": 19
+  },
+  {
+    "id": 20,
+    "name": "Barcelona",
+    "identifier": 20
+  }
+]
